@@ -64,4 +64,4 @@ The program provides a functional and modular implementation of a singly linked 
 
 <img width="1381" height="702" alt="Image" src="https://github.com/user-attachments/assets/5275990e-75d9-4069-a6e0-87234c8ecb81" />
 
-
+<img width="1302" height="563" alt="Image" src="https://github.com/user-attachments/assets/16a393fc-ea71-414b-88e4-2a199ee4c7ef" />
