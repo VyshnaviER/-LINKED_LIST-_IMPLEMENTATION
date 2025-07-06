@@ -59,3 +59,9 @@ Linked lists are widely used in software development for managing data in real t
 # Conclusion:
 
 The program provides a functional and modular implementation of a singly linked list using the C programming language. It efficiently demonstrates fundamental operations such as insertion at the end, deletion of a specific node, and traversal of the entire list. Each operation is handled through separate functions, ensuring code clarity and reusability. The use of structures and dynamic memory allocation allows the list to grow and shrink as needed during runtime. Overall, this program showcases the core principles of linked list data structures and serves as a reliable foundation for implementing more advanced data handling tasks in C.
+
+# OUTPUT
+
+<img width="1381" height="702" alt="Image" src="https://github.com/user-attachments/assets/5275990e-75d9-4069-a6e0-87234c8ecb81" />
+
+
